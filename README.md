@@ -10,13 +10,6 @@
 </p>
 
 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VitorSirotenco&show_icons=true&count_private=true&hide_border=true&title_color=05BFDB&icon_color=27E1C1&text_color=c9d1d9&bg_color=0d1117" alt="Vitor Sirotenco github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSirotenco&layout=compact&hide_border=true&title_color=27E1C1&text_color=27E1C1&bg_color=0d1117" />
-</div>
-
-
 <div align="center"> 
 <a href="https://www.instagram.com/vitor.sirotenco/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:cmp.1a.vitorsirotenco33@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
