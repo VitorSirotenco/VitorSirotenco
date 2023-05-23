@@ -2,7 +2,7 @@
 
 My name is Vitor Sirotenco and I am 20 years old.
 
-I live in São Paulo, Brazil and I am studying Computer Science at University São Judas Tadeu
+I live in São Paulo, Brazil and I am studying Computer Science at University São Judas Tadeu, 3rd semester.
 
 ### 💬 Github Stats 
 
