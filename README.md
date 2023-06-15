@@ -26,7 +26,10 @@ I live in SÃ£o Paulo, Brazil and I am studying Computer Science at University SÃ
 
 
 ### Estudando nesse momento:
-<img align="center" alt="Jay-Bootstrap" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />&nbsp; Bootstrap
+<img align="center" alt="Jay-Bootstrap" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />&nbsp; Bootstrap<br>       
+<img alt="Python" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />&nbsp; Python
+          
+          
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
