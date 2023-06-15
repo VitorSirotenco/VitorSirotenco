@@ -31,11 +31,7 @@ I live in SÃ£o Paulo, Brazil and I am studying Computer Science at University SÃ
           
           
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{VitorSirotenco}/count.svg" /></p> 
-<br>
-</div>
+
 
 
 
