@@ -16,7 +16,7 @@ I live in São Paulo, Brazil and I am studying Computer Science at University S�
 </center>
 
 ### 📫Contacts
-* [LinkedIn](https://www.linkedin.com/in/vitor-sirotenco-a985b3237/)
+* [LinkedIn](https://www.linkedin.com/in/vitorsirotenco/)
 * [Instagram](https://www.instagram.com/vitor.sirotenco/)
  
  ### Skills:
